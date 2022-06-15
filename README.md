@@ -4,6 +4,7 @@ Files used:\
 1-index.html\
 2-phone.css for making it responsive.\
 3-style.css\
+![Screenshot](https://user-images.githubusercontent.com/76509849/173742071-74598c5e-1bb8-4636-862e-aceffa243b8f.jpg)
 
 <hr>
 <br>
