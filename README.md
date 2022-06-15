@@ -1,5 +1,5 @@
 # Food-delivery-Website
-Used Only HTML | CSS in it.\
+Used Only **HTML | CSS** in it.\
 Files used:\
 1-index.html\
 2-phone.css for making it responsive.\
